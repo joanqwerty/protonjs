@@ -1,0 +1,1 @@
+openWebView("Proton JS", "https://www.github.com/joanqwerty");
